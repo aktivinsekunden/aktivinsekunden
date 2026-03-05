@@ -279,7 +279,7 @@ Zur Erinnerung an aktive Sekunden.
 # Kontakt
 **ActivitySnippets-Team, Hochschule Niederrhein**
 
-Vertr.Prof. Dr. med. sc. Lukas Streese-Schüler
+Vertr.Prof. Dr. sc. med. Lukas Streese-Schüler
 
 Leonie Reimann
 
