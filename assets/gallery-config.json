@@ -1,0 +1,328 @@
+{
+  "toolbox": [
+    {
+      "src": "assets/images/5.png",
+      "title": "Bergsteiger",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/6.png",
+      "title": "Schulterblick",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/7.png",
+      "title": "Lehnen-Presse",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/8.png",
+      "title": "Seitliche Armpresse",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/9.png",
+      "title": "Brücke",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/10.png",
+      "title": "Schweben",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/11.png",
+      "title": "Beten & Greifen",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/12.png",
+      "title": "Nackenkräftigung",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/13.png",
+      "title": "Nackenstütze ziehen & drücken",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/14.png",
+      "title": "Schwerer Sitz",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/15.png",
+      "title": "Rumpfspannung",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/16.png",
+      "title": "Kurz & bündig",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/17.png",
+      "title": "Dreieckskraft",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/18.png",
+      "title": "Kniepresse",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/19.png",
+      "title": "Kreuzdruck",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/20.png",
+      "title": "Wadenpumpe",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/21.png",
+      "title": "Fußgewölbe",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/22.png",
+      "title": "Beinstrecker und -beuger",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/23.png",
+      "title": "Kniebeuge",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/24.png",
+      "title": "Ausfallschritt",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/25.png",
+      "title": "Erhöhter Ausfallschritt",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["sonstige", "stuhl"]
+    },
+    {
+      "src": "assets/images/26.png",
+      "title": "Liegestütz rückwärts",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["sonstige", "tisch"]
+    },
+    {
+      "src": "assets/images/27.png",
+      "title": "Einbeinstand",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/28.png",
+      "title": "Planke",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["sonstige", "tisch"]
+    },
+    {
+      "src": "assets/images/29.png",
+      "title": "Seitliche Planke",
+      "uebungsart": "aktivitaet",
+      "gegenstand": ["sonstige", "tisch"]
+    },
+    {
+      "src": "assets/images/30.png",
+      "title": "Bauch-Kick",
+      "uebungsart": "aktivitaet",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/31.png",
+      "title": "Korkenzieher",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/32.png",
+      "title": "Nackendehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/33.png",
+      "title": "Schildkröte - Doppelkinn",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/34.png",
+      "title": "Schulterkreisen",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/35.png",
+      "title": "Brust-Öffner",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "sonstige"
+    },
+    {
+      "src": "assets/images/36.png",
+      "title": "Unterarm-Öffner",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/37.png",
+      "title": "Katze - Kuh",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/38.png",
+      "title": "Knieschieber - Hüftschwung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/39.png",
+      "title": "Aushängen",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "sonstige"
+    },
+    {
+      "src": "assets/images/40.png",
+      "title": "Löwen-Streckung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/41.png",
+      "title": "Brust- und Rückendehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["tisch", "stuhl"]
+    },
+    {
+      "src": "assets/images/42.png",
+      "title": "Gesäßdehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/43.png",
+      "title": "Dehnung der Beininnenseiten",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/44.png",
+      "title": "Schraube",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "stuhl"
+    },
+    {
+      "src": "assets/images/45.png",
+      "title": "Vorbeuge",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/46.png",
+      "title": "Oberschenkeldehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "keine"
+    },
+    {
+      "src": "assets/images/47.png",
+      "title": "Seitdehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/48.png",
+      "title": "Armdehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/49.png",
+      "title": "Wadendehnung",
+      "uebungsart": "beweglichkeit",
+      "gegenstand": "sonstige"
+    },
+    {
+      "src": "assets/images/50.png",
+      "title": "Kieferentspannung",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/51.png",
+      "title": "Body-Scan",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/52.png",
+      "title": "Achtsamkeit",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/53.png",
+      "title": "Box-Atmung",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/54.png",
+      "title": "Klopf-Akupressur",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/55.png",
+      "title": "Palmieren",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/56.png",
+      "title": "Macht der Gedanken",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/57.png",
+      "title": "Blickpunkt-Meditation",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    },
+    {
+      "src": "assets/images/58.png",
+      "title": "Tiefenentspannung der Muskeln",
+      "uebungsart": "entspannung",
+      "gegenstand": ["keine", "stuhl"]
+    }
+  ]
+}
