@@ -1,4 +1,7 @@
 # Aktiv in Sekunden
+Dies ist ein Repository für die GitHub-Page [https://aktivinsekunden.github.io/aktivinsekunden/"](https://aktivinsekunden.github.io/aktivinsekunden/)
+
+
 Auf dieser Seite stehen einige kostenfreie Materialien zur Förderung von Aktivität, Beweglichkeit und Entspannung im Alltag zur Verfügung, die an der Hochschule Niederrhein im Rahmen des BMFTR-geförderten Projekts "ActivitySnippets" entwickelt wurden.
 
 Unser Motto: *"Jede Bewegung zählt"*
