@@ -8,6 +8,12 @@ Viel Spaß!
 ## Toolbox
 Kurze Übungen mit Bildern und Textanleitungen.
 
+<a href="assets/img/Toolbox.pdf" download="Toolbox.pdf">
+  <button style="padding: 10px 20px; background-color: #007aad; color: white; border: none; border-radius: 5px; cursor: pointer; font-size: 16px;">
+    Gesamte Toolbox (PDF) herunterladen
+  </button>
+</a>
+
 ## Poster
 Vier Poster mit Übungsbeispielen und Ideen zur Ritualisierung im Alltag.
 
