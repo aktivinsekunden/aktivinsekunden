@@ -1,9 +1,9 @@
 # Aktiv in Sekunden
-Auf dieser Seite stehen einige kostenfreie Materialien zur Förderung von Aktivität, Beweglichkeit und Entspannung im Alltag zur Verfügung, die an der Hochschule Niederrhein im Rahmen des BMFTR-geförderten Projekts "ActivitySnippets" entwickelt wurden.
+Auf dieser Seite stehen einige **kostenfreie Materialien** zur Förderung von Aktivität, Beweglichkeit und Entspannung im Alltag zur Verfügung, die an der **Hochschule Niederrhein** im Rahmen des BMFTR-geförderten Projekts "ActivitySnippets" entwickelt wurden.
 
-Unser Motto: *"Jede Bewegung zählt"*
+Unser Motto: "Jede Bewegung zählt"
 
-Viel Spaß!
+Viel Spaß beim Mitmachen!
 
 ## Toolbox
 Kurze Übungen mit Bildern und Textanleitungen.
@@ -246,7 +246,7 @@ Challenge-Vorlagen, um Erfolge zu tracken und im Team mit- bzw. gegeinander anzu
 </div>
 
 ## Sticker und Hintergrundbilder
-Zur Erinnerung an aktive Sekunden.
+Zur Erinnerung an aktive Momente im Alltag.
 
 <div style="display:flex; align-items:center; gap:20px; margin-bottom:25px; flex-wrap:wrap;">
 
@@ -285,10 +285,9 @@ Leonie Reimann
 
 Christina Arnold
 
+Sie haben Fragen oder Anregungen? Kontaktieren Sie uns gerne per E-Mail: [activitysnippets@hs-niederrhein.de](mailto:activitysnippets@hs-niederrhein.de)
 
-E-Mail: [activitysnippets@hs-niederrhein.de](mailto:activitysnippets@hs-niederrhein.de)
-
-Hochschul-Webseite: [https://www.hs-niederrhein.de/gesundheitswesen/forschung/projekt-activity-snippets/](https://www.hs-niederrhein.de/gesundheitswesen/forschung/projekt-activity-snippets/)
+Projektseite der Hochschule Niederrhein: [https://www.hs-niederrhein.de/gesundheitswesen/forschung/projekt-activity-snippets/](https://www.hs-niederrhein.de/gesundheitswesen/forschung/projekt-activity-snippets/)
 
 
 Das Projekt wurde gefördert vom Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR).
